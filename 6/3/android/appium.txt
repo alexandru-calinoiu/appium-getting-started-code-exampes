@@ -1,0 +1,10 @@
+[caps]
+appium-version = "1.2.0"
+deviceName = "Android"
+platformName = "Android"
+platformVersion = "4.3"
+app = "../../../apps/api.apk"
+avd = "training"
+
+[appium_lib]
+require = ["./spec/requires.rb"]

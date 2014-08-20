@@ -1,0 +1,7 @@
+[caps]
+deviceName = "iPhone Simulator"
+platformName = "ios"
+app = "../../../apps/UICatalog.app.zip"
+
+[appium_lib]
+require = ["./spec/requires.rb"]

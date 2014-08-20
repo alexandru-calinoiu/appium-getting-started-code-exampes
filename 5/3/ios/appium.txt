@@ -1,0 +1,8 @@
+[caps]
+deviceName = "iPhone Simulator"
+platformName = "ios"
+app = "../../../apps/UICatalog.app.zip"
+
+[appium_lib]
+sauce_username = ""
+sauce_access_key = ""

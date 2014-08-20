@@ -1,0 +1,8 @@
+[caps]
+platformName = "android"
+app = "../../../apps/api.apk"
+avd = "training"
+deviceName = "Android"
+
+[appium_lib]
+require = ["./spec/requires.rb"]

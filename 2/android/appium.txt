@@ -1,0 +1,9 @@
+[caps]
+platformName = "Android"
+app = "../../apps/api.apk"
+deviceName = "Android"
+avd = "training"
+
+[appium_lib]
+sauce_username = ""
+sauce_access_key = ""
