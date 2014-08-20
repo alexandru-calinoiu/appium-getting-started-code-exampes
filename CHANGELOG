@@ -1,0 +1,4 @@
+# 1.0.0 (Aug 20, 2014)
+
++ Move "Getting Started with Appium" code examples to it's own (public) repository
++ Added a license file with Apache 2.0
